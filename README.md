@@ -62,3 +62,13 @@ npm init -y
 npm install -D ts-node-dev typescript jest @types/jest ts-jest  
 npx ts-jest config:init  
 npx typescript --init
+
+## Entities
+
+Hotel
+ClientType
+DayType
+
+## UseCases
+
+ReservationHotel
